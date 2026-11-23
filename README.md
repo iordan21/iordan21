@@ -1,11 +1,13 @@
 # Olá, eu sou o Iordan 👋
 
+[English](README.en.md)
+
 **Desenvolvedor Android (Kotlin + Jetpack Compose) e C++ no Windows.**
 8 anos em crédito e produtos financeiros no Banco Bradesco.
 
 Construo apps que modelam regras reais de crédito (margem consignável, portabilidade, IOF, Tabela Price),
 porque são as regras que eu analiso e concedo todos os dias antes de escrevê-las em código.
-Fora do banco, faço os programas que eu mesmo uso: uma central de jogos, um player de IPTV e apps de música com controle.
+Fora do banco, faço os programas que eu mesmo uso: uma central de jogos, um player de TV e apps de música com controle.
 
 - 🔭 Migrando para desenvolvimento de software, com foco em fintech e crédito
 - 🎓 Cursando Ciência da Computação na Unifacs
@@ -32,7 +34,7 @@ consignável disponível e projeta novos contratos com desconto de IOF.
 
 `Kotlin` `Jetpack Compose (Material 3)` `MVVM` `StateFlow` `JUnit` `Gradle KTS`
 
-Arquitetura MVVM em três camadas, separando cálculo, estado e interface, com testes JVM cobrindo
+Arquitetura MVVM em três camadas, separando cálculo, estado e interface, com 48 testes JVM cobrindo
 as fórmulas da Tabela Price, o parsing de moeda brasileira e a sanitização de entrada.
 
 ### 🎮 [Ranga EMU](https://github.com/iordan21/Ranga-EMU)
@@ -48,7 +50,7 @@ O meu trabalho é o que fica em volta: a interface, as contas, as salas online, 
 ### 📺 [Ranga TV](https://github.com/iordan21/Ranga-TV) · 🎵 [Ranga YTM e Ranga Spot](https://github.com/iordan21/Ranga-YTM)
 
 Apps da loja do Ranga EMU, feitos para usar com o controle do videogame.
-O **Ranga TV** é um player de IPTV com os canais abertos oficiais.
+O **Ranga TV** é um player de TV com os canais abertos oficiais.
 O **Ranga YTM** e o **Ranga Spot** abrem o YouTube Music e o Spotify numa janela leve, com mini player
 e aviso da música no canto da tela durante o jogo.
 
