@@ -40,6 +40,8 @@ as fórmulas da Tabela Price, o parsing de moeda brasileira e a sanitização de
 Central de jogos para Windows: 26 consoles numa tela só, com perfil estilo Steam, amigos, chat,
 conquistas e jogo online entre amigos. Atualiza sozinho com versões assinadas (ECDSA P-256)
 e tem uma loja própria de apps com catálogo assinado ([Ranga-Apps](https://github.com/iordan21/Ranga-Apps)).
+Os jogos rodam em núcleos libretro de código aberto, de outros autores; o projeto nasceu de um fork do AnyPS5.
+O meu trabalho é o que fica em volta: a interface, as contas, as salas online, a loja e a atualização assinada.
 
 `C++20` `Dear ImGui` `Direct3D 11` `SDL2` `libretro` `Cloudflare Workers`
 
